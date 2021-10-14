@@ -10,7 +10,7 @@
 </p style="font-family:courier;"> 1. No Time To Die<br></p>
 <img src="https://pics.filmaffinity.com/No_Time_to_Die-525355918-large.jpg" alt="No Time To Die (2021) - Filmaffinity" style="width:277.083px;height:441px;">
 </p style="font-family:courier;"> <br>This one is a pure classic in the world of action films. James Bond saga is beloved by millions of people all around the world. This edisode of Bond has literally everything we could dream about: brilliant actors, great cgi, breathtaking scences. Another reason to watch it is that No Time To Die is the fifth and the last movie featuring amazing Daniel Craig as J.B.<br></p>
-</p style="font-family:courier;"> Soundtrack: "No Time To Die" by Billie Eilish</p>
+</p style="font-family:courier;"> Soundtrack: "No Time To Die" by Billie Eilish.</p>
 <style>
 table {
   font-family: courier, courier;
